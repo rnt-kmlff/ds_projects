@@ -1,0 +1,4 @@
+# Insights from the CIA World Factbook: Patterns and Relationships Among Country Statistics
+This project uses SQL to analyze data from the CIA World Factbook, a compendium of statistics about all countries on Earth. Our goal is to identify patterns and relationships among various country statistics, including population, development, and natural population decline. To reach this goal, we used SQL to query the database. 
+
+Our analysis revealed several interesting results, including that the most densely populated countries are located in Asia, and that countries with above-average populations and high population growth rates tend to be less economically developed. Additionally, the countries with the highest rates of natural population decline are former USSR republics in the Balkans and the Baltics. These findings demonstrate the power of SQL to uncover important insights about global trends and patterns.
