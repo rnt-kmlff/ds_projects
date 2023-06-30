@@ -1,0 +1,7 @@
+# Unlocking Advertising Potential: Identifying Optimal Markets for Programming Courses
+
+In this data science project, our goal is to identify the two best markets to promote our e-learning courses on coding, namely web and mobile development. To do this, we analyzed data from freeCodeCamp's 2017 New Coder Survey, which attracted new coders with a variety of interests. Our focus was to understand the location of these new coders and their willingness to invest in learning.
+
+During our analysis, we discovered that 86% of the respondents expressed interest in web and mobile development positions, aligning with our target audience. We narrowed down our potential markets to the United States, India, the United Kingdom, and Canada, considering their high numbers of English-speaking new coders. By calculating mean values and eliminating outliers, we determined that the USA is an ideal market due to its large population of new coders who are willing to spend a significant amount each month. For the second market, both India and Canada are viable options, as their spending distributions were statistically similar.
+
+While the statistical analysis provides valuable insights, other factors such as market size, target audience characteristics, competition, and marketing strategies should also be taken into account when making a final decision. Therefore, we recommend sharing these findings with our marketing team, who can leverage their domain knowledge to make the best choice.
