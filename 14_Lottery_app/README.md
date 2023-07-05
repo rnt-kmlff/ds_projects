@@ -1,0 +1,7 @@
+# Unveiling the Numbers: Analyzing Winning Probabilities in the 6/49 Lottery
+
+The goal of our analysis is to develop a logical core for a possible mobile app that aids individuals with gambling addictions in estimating their chances of winning the 6/49 lottery. Our approach involves building functions to address key inquiries, such as the probability of winning the grand prize with a single ticket, the probability of winning with multiple tickets, and the probability of having a certain number of winning numbers on a single ticket.
+
+Throughout our project, we made findings that showcase the effectiveness of our approach. We determined that the likelihood of winning the grand prize with any combination of six numbers is extremely low, approximately 0.000007%. Additionally, we created a function enabling app users to compare their ticket against historical lottery data from Canada, allowing them to ascertain if they would have won in the past. Furthermore, we developed a function to calculate the winning probabilities for any number of tickets, providing users with a comprehensive understanding of their chances.
+
+Our analysis also incorporated the calculation of probabilities for winning smaller prizes, specifically two, three, four, or five numbers out of the six drawn. By presenting these essential results concisely, we ensure that our findings are effectively communicated and easily digestible.
