@@ -1,1 +1,1 @@
-# My data science projects and docs
+# My projects
